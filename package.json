@@ -4,7 +4,7 @@
   "description": "Google Hash Code 2018",
   "main": "src/index.js",
   "repository": "https://github.com/marc1404/google-hashcode-2018.git",
-  "author": "Jop Brandenburg <jop.brandenburg@gmail.com>, Marc Vornetran <marc.vornetran@gmail.com>",
+  "author": "Marc Vornetran <marc.vornetran@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
