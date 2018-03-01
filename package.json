@@ -1,0 +1,17 @@
+{
+  "name": "google-hashcode-2018",
+  "version": "0.0.1",
+  "description": "Google Hash Code 2018",
+  "main": "src/index.js",
+  "repository": "https://github.com/marc1404/google-hashcode-2018.git",
+  "author": "Jop Brandenburg <jop.brandenburg@gmail.com>, Marc Vornetran <marc.vornetran@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "1.17.1"
+  }
+}
